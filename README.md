@@ -1,4 +1,4 @@
-Note: Created in 2021 for Ignition Hacks
+Note: Created in 2021 for Ignition Hacks by a Team of four
 
 Mitra helps motivate students and helps them organize their work by making a personal schedule.
 
